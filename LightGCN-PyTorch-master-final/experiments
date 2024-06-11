@@ -1,0 +1,5 @@
+To fairly compare the different versions of LightGCN, we use the same metric (weighted NDCG) across the experiments
+1) our data + binary matrix + original bpr
+2) our data + weighted matrix + original bpr
+3) our data + weighted matrix + modified bpr
+4) our data + binary matrix + modified bpr
